@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @Stagietechs
+### 👋 👋 Hi, I’m @Stagietechs  👋 👋
+ _______
+
+ 
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Linux
 
